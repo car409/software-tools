@@ -23,3 +23,4 @@
 /tools/jdk/JavaBuilder_deploy.jar
 /tools/jdk/SingleJar_deploy.jar
 /tools/objc/*.jar
+*.swp
