@@ -4,6 +4,7 @@
 /bazel-out
 /bazel-bazel
 /bazel-testlogs
+/bazel-software-tools
 /.settings
 /.project
 /.classpath
