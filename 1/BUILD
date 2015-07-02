@@ -8,9 +8,9 @@ cc_binary(
 )
 
 cc_binary(
-    name = "farenheit",
+    name = "fahrenheit",
     srcs = [
-        "farenheit.c",
+        "fahrenheit.c",
     ],
     deps = [
     ],
