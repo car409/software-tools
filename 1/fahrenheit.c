@@ -4,9 +4,9 @@ int main() {
   int fahr, celsius;
   int lower, upper, step;
   
-  lower = 0;
-  upper = 300;
-  step = 20;
+  lower = 0;       /* lower limit of tempaerature table */
+  upper = 300;     /* upper limit */
+  step = 20;       /* step size */
   
   fahr = lower;
   while (fahr <= upper) {
