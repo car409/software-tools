@@ -10,7 +10,7 @@ cc_binary(
 cc_binary(
     name = "farenheit",
     srcs = [
-        "fahrenheit.c",
+        "farenheit.c",
     ],
     deps = [
     ],
