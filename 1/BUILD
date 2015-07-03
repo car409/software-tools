@@ -8,6 +8,15 @@ cc_binary(
 )
 
 cc_binary(
+    name = "copy",
+    srcs = [
+        "copy.c",
+    ],
+    deps = [
+    ],
+)
+
+cc_binary(
     name = "fahrenheit",
     srcs = [
         "fahrenheit.c",
