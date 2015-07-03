@@ -1,14 +1,14 @@
 # software-tools
 Examples from Kernighan &amp; Plauger Software Tools Book
 
-software-tools/
-  WORKSPACE
-  1/       <= Chapter 1
-    BUILD
-    ...
-  2/       <= Chapter 2 
-    BUILD
-    ...
+><pre>software-tools/
+>  WORKSPACE
+>  1/       <= Chapter 1
+>    BUILD
+>    ...
+>  2/       <= Chapter 2
+>    BUILD
+>    ...</pre>
 
 Always work from the software-tools directory (e.g. pwd => ~/software-tools)
 
