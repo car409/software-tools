@@ -5,9 +5,11 @@
 int main() {
   int c;
 
-  c = getchar();
-  while (c != EOF) {
-    putchar(c);
-    c = getchar();
-  }
+  printf("EOF is: %d\n", EOF);
+  printf("getchar() != EOF 0 or 1? %d\n", getchar() != EOF);
+  //c = getchar();
+  //while (c != EOF) {
+  //  putchar(c);
+  //  c = getchar();
+ // }
 }
