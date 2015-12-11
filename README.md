@@ -10,7 +10,7 @@ Examples from Kernighan &amp; Plauger Software Tools Book
 >    BUILD
 >    ...</pre>
 
-Always work from the software-tools directory (e.g. pwd => ~/software-tools)
+Always work from the software-tools directory (e.g. pwd => ~/software-tools). A simple change.
 
 % bazel build //1:hello_world
 % blaze-bin/1/hellow_world
